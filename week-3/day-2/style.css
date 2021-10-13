@@ -1,0 +1,26 @@
+.header {
+    font-weight: bolder;
+}
+
+​ .pink {
+    color: pink;
+}
+
+​ .underline {
+    text-decoration: underline;
+}
+
+​ .blue {
+    color: blue;
+}
+
+​ .container-flex {
+    display: flex;
+}
+
+​
+/* h1 {
+    font-weight: bolder;
+    color: pink;
+    text-decoration: underline;
+  } */

@@ -1,0 +1,14 @@
+.example1 {
+    background - color: purple;
+    color: white;
+    border - radius: 5 px;
+    transform: translate;
+    (20px, 50px);
+}
+
+#window {
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+}
